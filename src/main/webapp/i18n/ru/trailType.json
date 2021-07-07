@@ -1,0 +1,10 @@
+{
+  "hopitApp": {
+    "TrailType": {
+      "null": "",
+      "HIKING": "HIKING",
+      "BIKE": "BIKE",
+      "WATER": "WATER"
+    }
+  }
+}
